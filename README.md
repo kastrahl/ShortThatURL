@@ -11,16 +11,17 @@ URL Shortener 🔗
 
 High-Level Plan
 - 1️⃣ Backend (Spring Boot)
--- API to shorten a URL (store mapping of long URL → short code)
--- API to redirect a short URL to the original URL
--- API to view analytics (click count per short URL)
--- Store URLs in MySQL / PostgreSQL
+    - API to shorten a URL (store mapping of long URL → short code)
+    - API to redirect a short URL to the original URL
+    - API to view analytics (click count per short URL)
+    - Store URLs in MySQL / PostgreSQL
 </br>
 - 2️⃣ Frontend (React)
--- Input field for entering long URLs
--- Display generated short URLs
--- List previously shortened URLs
+    - Input field for entering long URLs
+    - Display generated short URLs
+    - List previously shortened URLs
+</br>
 - 3️⃣ Bonus Features
--- Track click analytics (store timestamp & IP of visitors)
--- Allow custom short URLs (e.g., mysite.com/kushagra)
--- User authentication (optional)
+    - Track click analytics (store timestamp & IP of visitors)
+    - Allow custom short URLs (e.g., mysite.com/kushagra)
+    - User authentication (optional)
