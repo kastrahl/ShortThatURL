@@ -16,11 +16,13 @@ High-Level Plan
     - API to view analytics (click count per short URL)
     - Store URLs in MySQL / PostgreSQL
 </br>
+
 - 2️⃣ Frontend (React)
     - Input field for entering long URLs
     - Display generated short URLs
     - List previously shortened URLs
 </br>
+
 - 3️⃣ Bonus Features
     - Track click analytics (store timestamp & IP of visitors)
     - Allow custom short URLs (e.g., mysite.com/kushagra)
