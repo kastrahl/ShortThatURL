@@ -28,6 +28,7 @@ High-Level Plan
     - Allow custom short URLs (e.g., mysite.com/kushagra)
     - User authentication (optional)
 </br>
+
 ```
 ShortThatURL/
 │── backend/                   # Spring Boot Backend
